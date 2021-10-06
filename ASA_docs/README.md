@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements Algorithm Substitution Attacks on Kyber and Falcon. It purpose is to evaluate academic research, thus it is not recommended to be used in a production environment. **Use it at your own risk**.
+This repository implements Algorithm Substitution Attacks on Kyber and Falcon. Its purpose is to evaluate academic research, thus it is not recommended to be used in a production environment. **Use it at your own risk**.
 
 ## Installation
 
